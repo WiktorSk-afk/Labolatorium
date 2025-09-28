@@ -1,1 +1,12 @@
+www.nasa.com
+wszystkie węzły z wyjątkiem tych w rosji działają poprawnie. 
+
+www.goggle.com
+status wszystkich węzłów pokazuje błąd
+
+www.facebook.com
+W rosji węzły nie działają. W Moskwie całkowity czas odpowiedzi wynosi 20006 ms co jest ogromną wartością w porównaniu do innych krajów, tak samo jak wszystkie otzymane nagłowki 
+
+www.mobywatel.gov.pl 
+Dane przechodzą przez cały świat. Węzły działają poprawnie dla całego świata z wyjątkiem Rosji, Canady (jednej lokacji) i Mashahad w Iranie
 
