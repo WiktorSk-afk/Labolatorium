@@ -1,0 +1,9 @@
+Pytanie 5:
+Po wejściu na stronę na której nie byłem (allegro.pl), w wynikach displayDNS nie została zapisana domena. Prawdopodobnie uczelnia blokuje taką możliwość.
+
+Sprawozdanie:
+
+1. Czym jest pamięć podręczna DNS? 
+Jest to tymczasowa baza danych, która przechowuje wyniki zapytań DNS, co przyspiesza proces tłumaczenia nazw domen na adresy IP.
+
+2. Dlaczego komputer przechowuje odwiedzone adresy?
