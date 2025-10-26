@@ -1,0 +1,22 @@
+Zadanie 1.
+
+Czas 8 h
+Przepustowość 1 Gb/s
+
+Obliczenia:
+
+8 * 3600 = 28 800
+
+1 Gb/s = 1 000 000 000 b/s
+
+1 000 000 000 * 28800 = 28 800 000 000 000
+
+1 bajt = 8 bitów
+
+28 800 000 000 000 / 8 = 3 600 000 000 000
+
+1GB - 1 000 000 000 bajtów
+
+3 600 000 000 000 / 1 000 000 000 = 3 600 GB
+
+W 8 godzin przy przepustowości 1 Gb/s pobiorę 3600 GB lub 3,6 TB.
