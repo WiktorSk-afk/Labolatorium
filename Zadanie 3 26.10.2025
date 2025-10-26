@@ -7,3 +7,5 @@ Sprawozdanie:
 Jest to tymczasowa baza danych, która przechowuje wyniki zapytań DNS, co przyspiesza proces tłumaczenia nazw domen na adresy IP.
 
 2. Dlaczego komputer przechowuje odwiedzone adresy?
+Dzięki temu nie musi wysyłać tych samych zapytań wielokrotnie. Jeśli już raz odwiedziliśmy jakąś stronę to komputer pamięta adres IP i może ją szybciej załadować, co zmniejsza ruch w sieci, serwerów DNS i oszczędza czas.
+
