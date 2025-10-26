@@ -1,0 +1,13 @@
+body{
+	padding: 25px;
+	background-color: rgb(78,41,9);
+	color: white;
+}
+.title {
+	color: orange;
+}
+
+img {
+	margin-top: 30px;
+	margin-right:40px;
+}
