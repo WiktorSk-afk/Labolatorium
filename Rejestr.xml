@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rejestr>
+   <człowiek id="1">
+      <imie>Kamil</imie>
+      <nazwisko>Gołąbek</nazwisko>
+      <płeć>Mężczyzna</płeć>
+      <wiek>21</wiek>
+   </człowiek>
+   <człowiek id="2">
+      <imie>Mikołaj</imie>
+      <nazwisko>Skrzydłowski</nazwisko>
+      <płeć>Mężczyzna</płeć>
+      <wiek>19</wiek>
+   </człowiek>
+   <człowiek id="3">
+      <imie>Oliwiera</imie>
+      <nazwisko>Przeźroczysta</nazwisko>
+      <płeć>Kobieta</płeć>
+      <wiek>48</wiek>
+   </człowiek>
+</rejestr>
